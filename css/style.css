@@ -163,7 +163,8 @@ button:hover{
 .service{
 	background: #101010;
 	width: 100%;
-	padding: 100px 0px;
+	padding-bottom: 1px;
+	padding-top: 10px;
 }
 .title h2{
 	color: white;
@@ -201,6 +202,7 @@ h5{
 	color: white;
 	font-size: 23px;
 	margin-bottom: 15px;
+	margin-top: 10px;
 }
 .pra p{
 	color: #fcfc;
